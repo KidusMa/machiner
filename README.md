@@ -1,1 +1,1 @@
-this project is done to classify from the given sonar data set wether it is rock or mine by using logistic regression 
+This project aims to classify sonar data to determine whether the signals indicate a rock or a mine, utilizing logistic regression as the primary analytical method.
